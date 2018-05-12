@@ -1,0 +1,31 @@
+_repo: Hyld-og-HumleFort-llinger_43290
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43290-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Breum, Sophie
+    alias: Breum, Sophie Margrethe Juliane
+    birthdate: 1870
+    deathdate: 1935
+    gutenberg_agent_id: '42112'
+    url: http://www.gutenberg.org/2009/agents/42112
+    wikipedia: https://da.wikipedia.org/wiki/Sophie_Breum
+description: ''
+gutenberg_issued: '2013-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43290'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Danish'
+- !lcsh 'Danish fiction'
+- !lcc 'PT'
+tableOfContents: Mødre -- Døden og Brændehuggeren -- Kammerjunkeren -- Den dristige
+  -- Kaptajnens datter -- To Søstre -- Rekreation -- Den høje Mand -- En kærlighedshistorie.
+title: 'Hyld og Humle: Fortællinger'
+url: http://www.gutenberg.org/ebooks/43290
