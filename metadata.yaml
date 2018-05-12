@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42112
     wikipedia: https://da.wikipedia.org/wiki/Sophie_Breum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43290#Hyld-og-HumleFort-llinger
 gutenberg_issued: '2013-07-24'
 gutenberg_type: Text
 identifiers:
